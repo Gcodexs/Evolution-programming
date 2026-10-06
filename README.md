@@ -17,25 +17,6 @@ My current focus includes **SQL, SQLite, Entity Framework Core, user identity sy
 
 ---
 
-## Projects
-
-### SQL-Database
-
-A project focused on understanding relational databases and how applications work with structured data.
-
-It explores **SQL, tables, relationships, CRUD operations, database design, SQLite, and data persistence with C#**.
-
-The project helped me understand how information is stored, organized, and retrieved by an application.
-
-### User-Identity-System
-
-A project focused on user management and authentication using **C# and .NET**.
-
-It explores **user registration, login, identity management, persistent user data, and the connection between application logic and databases**.
-
-The project represents a step toward building more complete application functionality.
-
---
 
 ## Purpose
 
