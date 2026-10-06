@@ -1,101 +1,46 @@
 
-This repository is my progress log and learning hub for software development. It brings together my projects and exercises focused on C#, .NET, databases, authentication systems, and application architecture.
-The goal is not only to build working projects, but also to understand the fundamentals, improve programming practices, and document my evolution as a developer.
+# Evolution-programming
 
+**Evolution-programming** is a repository where I document my progress in software development through practical projects and continuous learning.
+
+It brings together the applications, exercises, and experiments I build while developing my knowledge of **C#, .NET, SQL, databases, authentication, and software architecture**.
+
+The purpose is to learn by building, understand the technologies I use, and gradually improve the way I design and develop software.
 
 ---
 
 ## Current Focus
 
-I am currently exploring and strengthening my knowledge in:
+I am currently strengthening my knowledge of **C# and .NET**, while learning how applications work with databases, persistent data, authentication, and backend logic.
 
-- C# and .NET development
-- Relational databases and SQL
-- SQLite data persistence
-- User authentication and identity systems
-- Clean code and software design
-- Practical project-based learning
+My current focus includes **SQL, SQLite, Entity Framework Core, user identity systems, clean code, and software design**.
 
 ---
 
-## Repository Projects
+## Projects
 
-### 1. SQL-Database
-A project focused on learning SQL and database concepts, including:
+### SQL-Database
 
-- table creation
-- CRUD operations
-- database relationships
-- schema design
-- SQLite integration with C#
-- data persistence fundamentals
+A project focused on understanding relational databases and how applications work with structured data.
 
-This project helped me understand how information is structured and managed in real applications.
+It explores **SQL, tables, relationships, CRUD operations, database design, SQLite, and data persistence with C#**.
 
-### 2. User-Identity-System
-A project centered on authentication and user management using C# and .NET, covering:
+The project helped me understand how information is stored, organized, and retrieved by an application.
 
-- user registration
-- login flow
-- identity management
-- session persistence
-- secure application design
-- database-driven user storage
+### User-Identity-System
 
-This project is part of my effort to build more complete and realistic systems.
+A project focused on user management and authentication using **C# and .NET**.
 
----
+It explores **user registration, login, identity management, persistent user data, and the connection between application logic and databases**.
 
-## Learning Path
+The project represents a step toward building more complete application functionality.
 
-My learning journey is structured in stages:
+--
 
-### Stage 1: Foundations
-- Basic programming concepts
-- Variables, control flow, functions
-- Object-oriented programming
-- Data structures and logic
+## Purpose
 
-### Stage 2: Data and persistence
-- SQL fundamentals
-- Relational models
-- Normalization
-- SQLite usage
-- C# data access
+This repository reflects what I am learning and building over time.
 
-### Stage 3: User systems and application logic
-- Authentication
-- Authorization
-- Identity flows
-- Security basics
-- Validation and business rules
+Each project allows me to apply new concepts, solve problems, understand my mistakes, and improve my technical skills through practice.
 
-### Stage 4: Growth and improvement
-- Better architecture
-- Cleaner code
-- Reusability
-- Scalability
-- Real-world project mindset
-
----
-
-## Tech Stack
-
-- C#
-- .NET
-- SQLite
-- SQL
-- Git and GitHub
-- Visual Studio / VS Code
-
----
-
-## Project Goals
-
-- Build practical projects instead of only studying theory
-- Strengthen my understanding of fundamental concepts
-- Improve my problem-solving and debugging skills
-- Create a portfolio of real work
-- Document progress in a clear and organized way
-
----
+**Learn → Build → Understand → Improve**
