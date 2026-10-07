@@ -1,8 +1,8 @@
-### 📂 Project 04: Cloud Serverless API (`04-Cloud-Serverless-API`)
+### 📂 Project 04: Cloud Serverless API
 
-A serverless API built with **C#/.NET 8 and Azure Functions** to receive and store images using **Azure Blob Storage**.
+**Cloud-based backend API** developed with **C#/.NET 8 and Azure Functions**, implementing **HTTP-based image upload, binary data processing, and object storage through Azure Blob Storage**.
 
-The project demonstrates the implementation of a cloud-based backend using **serverless computing, object storage, HTTP endpoints, and local cloud emulation**.
+The application uses a **serverless architecture** with **.NET 8 Isolated Worker**, integrating **Azure Storage SDK** for programmatic interaction with Blob containers and **Azurite** for local cloud-storage emulation.
 
 ### 💡 Project Features & Architecture
 
