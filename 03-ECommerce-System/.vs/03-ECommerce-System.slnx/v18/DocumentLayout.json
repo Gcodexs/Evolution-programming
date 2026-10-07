@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|c:\\users\\schne\\downloads\\progrmacion\\lenguaje programacion c#\\user identity system\\03-ecommerce-system\\03-ecommerce-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|solutionrelative:03-ecommerce-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|c:\\users\\schne\\downloads\\progrmacion\\lenguaje programacion c#\\user identity system\\03-ecommerce-system\\03-ecommerce-system\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|solutionrelative:03-ecommerce-system\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|c:\\users\\schne\\downloads\\progrmacion\\lenguaje programacion c#\\user identity system\\03-ecommerce-system\\03-ecommerce-system\\03-ecommerce-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|solutionrelative:03-ecommerce-system\\03-ecommerce-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\Migrations\\20261006002029_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:03-ECommerce-System\\Migrations\\20261006002029_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|c:\\users\\schne\\downloads\\progrmacion\\lenguaje programacion c#\\user identity system\\03-ecommerce-system\\03-ecommerce-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|solutionrelative:03-ecommerce-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|c:\\users\\schne\\downloads\\progrmacion\\lenguaje programacion c#\\user identity system\\03-ecommerce-system\\03-ecommerce-system\\data\\applicactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|solutionrelative:03-ecommerce-system\\data\\applicactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|c:\\users\\schne\\downloads\\progrmacion\\lenguaje programacion c#\\user identity system\\03-ecommerce-system\\03-ecommerce-system\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|solutionrelative:03-ecommerce-system\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|c:\\users\\schne\\downloads\\progrmacion\\lenguaje programacion c#\\user identity system\\03-ecommerce-system\\03-ecommerce-system\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|solutionrelative:03-ecommerce-system\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|c:\\users\\schne\\downloads\\progrmacion\\lenguaje programacion c#\\user identity system\\03-ecommerce-system\\03-ecommerce-system\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2D176D-AA83-46E0-A50C-A878516D1AFA}|03-ECommerce-System\\03-ECommerce-System.csproj|solutionrelative:03-ecommerce-system\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\Program.cs",
+              "RelativeDocumentMoniker": "03-ECommerce-System\\Program.cs",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\Program.cs",
+              "RelativeToolTip": "03-ECommerce-System\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T00:10:09.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "03-ECommerce-System\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "03-ECommerce-System\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T00:23:46.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03-ECommerce-System",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\03-ECommerce-System.csproj",
+              "RelativeDocumentMoniker": "03-ECommerce-System\\03-ECommerce-System.csproj",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\03-ECommerce-System.csproj",
+              "RelativeToolTip": "03-ECommerce-System\\03-ECommerce-System.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T23:45:41.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20261006002029_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\Migrations\\20261006002029_Inicial.cs",
+              "RelativeDocumentMoniker": "03-ECommerce-System\\Migrations\\20261006002029_Inicial.cs",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\Migrations\\20261006002029_Inicial.cs",
+              "RelativeToolTip": "03-ECommerce-System\\Migrations\\20261006002029_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T00:20:30.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\appsettings.json",
+              "RelativeDocumentMoniker": "03-ECommerce-System\\appsettings.json",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\appsettings.json",
+              "RelativeToolTip": "03-ECommerce-System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T00:08:32.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicactionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\data\\ApplicactionDbContext.cs",
+              "RelativeDocumentMoniker": "03-ECommerce-System\\data\\ApplicactionDbContext.cs",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\data\\ApplicactionDbContext.cs",
+              "RelativeToolTip": "03-ECommerce-System\\data\\ApplicactionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:57:53.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\models\\Orden.cs",
+              "RelativeDocumentMoniker": "03-ECommerce-System\\models\\Orden.cs",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\models\\Orden.cs",
+              "RelativeToolTip": "03-ECommerce-System\\models\\Orden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:55:23.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\models\\Usuario.cs",
+              "RelativeDocumentMoniker": "03-ECommerce-System\\models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\models\\Usuario.cs",
+              "RelativeToolTip": "03-ECommerce-System\\models\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:54:31.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\models\\Producto.cs",
+              "RelativeDocumentMoniker": "03-ECommerce-System\\models\\Producto.cs",
+              "ToolTip": "C:\\Users\\schne\\Downloads\\PROGRMACION\\Lenguaje Programacion C#\\User Identity System\\03-ECommerce-System\\03-ECommerce-System\\models\\Producto.cs",
+              "RelativeToolTip": "03-ECommerce-System\\models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:49:47.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
