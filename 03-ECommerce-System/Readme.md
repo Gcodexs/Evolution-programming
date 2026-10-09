@@ -1,5 +1,5 @@
 # 🛒 C# & SQL Concepts Learned — E-Commerce System
-
+ddas
 This project was developed with **C# and .NET** as a practical exercise to understand how a backend application communicates with a **SQL Server relational database**.
 
 The main objective was to build a foundation for working with **data persistence, database operations, and API communication** in a backend environment.
