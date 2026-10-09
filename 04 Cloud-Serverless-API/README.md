@@ -1,4 +1,4 @@
-### 📂 Project 04: Cloud Serverless APIdsaadsadsa
+### 📂 Project 04: Cloud Serverless API 
 
 **Cloud-based backend API** developed with **C#/.NET 8 and Azure Functions**, implementing **HTTP-based image upload, binary data processing, and object storage through Azure Blob Storage**.
 
