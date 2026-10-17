@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "_04_Cloud_Serverless_API": {
+      "commandName": "Project",
+      "commandLineArgs": "start --port 7228",
+      "launchBrowser": false
+    }
+  }
+}
