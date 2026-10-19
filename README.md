@@ -6,6 +6,7 @@
 - 📁 [**01 — SQL Database**](https://github.com/Gcodexs/01-SQL-Database-main) — Database design, relational structures, and SQL query scripts.
 - 📁 [**02 — User Identity System**](https://github.com/Gcodexs/02-User-Identity-System) — User authentication, identity management, and access control.
 - 📁 [**03 — E-Commerce System**](https://github.com/Gcodexs/03-ECommerce-System) — E-commerce architecture, business logic, and online store functionality.
+- 📁 [**04 — Cloud Serverless API**](https://github.com/Gcodexs/04-Cloud-Serverless-API) — Serverless functions, API development, and cloud deployment.
 
 It brings together the applications, exercises, and experiments I build while developing my knowledge of **C#, .NET, SQL, databases, authentication, and software architecture**.
 
