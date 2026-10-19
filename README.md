@@ -9,25 +9,10 @@
 - 📁 [**04 — Cloud Serverless API**](https://github.com/Gcodexs/04-Cloud-Serverless-API) — Serverless functions, API development, and cloud deployment.
 - 📁 [**05 — Software Application Development**](https://github.com/Gcodexs/05-Software-Application-Development) — Software architecture, application development, and core system implementation.
 
-It brings together the applications, exercises, and experiments I build while developing my knowledge of **C#, .NET, SQL, databases, authentication, and software architecture**.
+This repository brings together a modern technology ecosystem focused on backend development and software architecture:
 
-The purpose is to learn by building, understand the technologies I use, and gradually improve the way I design and develop software.
-
----
-
-## Current Focus
-
-I am currently strengthening my knowledge of **C# and .NET**, while learning how applications work with databases, persistent data, authentication, and backend logic.
-
-My current focus includes **SQL, SQLite, Entity Framework Core, user identity systems, clean code, and software design**.
-
----
-
-
-## Purpose
-
-This repository reflects what I am learning and building over time.
-
-Each project allows me to apply new concepts, solve problems, understand my mistakes, and improve my technical skills through practice.
-
-**Learn → Build → Understand → Improve**
+- **Primary Language:** C# 12 / .NET 8 (or the version currently in use)
+- **Databases & ORM:** SQL Server, SQLite, and Entity Framework Core
+- **Architecture & Best Practices:** Clean Code, SOLID Principles, and Dependency Injection
+- **Security:** ASP.NET Core Identity and User Identity Management
+- **Deployment & Cloud:** Serverless API Concepts and Cloud Deployment
