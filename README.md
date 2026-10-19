@@ -3,6 +3,8 @@
 
 **Evolution-programming** is a repository where I document my progress in software development through practical projects and continuous learning.
 
+- 📁 [**01 — SQL Database**](https://github.com/Gcodexs/01-SQL-Database-main) — Database design, relational structures, and SQL query scripts.
+
 It brings together the applications, exercises, and experiments I build while developing my knowledge of **C#, .NET, SQL, databases, authentication, and software architecture**.
 
 The purpose is to learn by building, understand the technologies I use, and gradually improve the way I design and develop software.
