@@ -11,7 +11,7 @@
 
 This repository brings together a modern technology ecosystem focused on backend development and software architecture:
 
-- **Primary Language:** C# 12 / .NET 8 (or the version currently in use)
+- **Primary Language:** C# / .NET 10 (or the version currently in use)
 - **Databases & ORM:** SQL Server, SQLite, and Entity Framework Core
 - **Architecture & Best Practices:** Clean Code, SOLID Principles, and Dependency Injection
 - **Security:** ASP.NET Core Identity and User Identity Management
