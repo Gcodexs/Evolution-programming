@@ -4,6 +4,7 @@
 **Evolution-programming** is a repository where I document my progress in software development through practical projects and continuous learning.
 
 - 📁 [**01 — SQL Database**](https://github.com/Gcodexs/01-SQL-Database-main) — Database design, relational structures, and SQL query scripts.
+- 📁 [**02 — User Identity System**](https://github.com/Gcodexs/02-User-Identity-System) — User authentication, identity management, and access control.
 
 It brings together the applications, exercises, and experiments I build while developing my knowledge of **C#, .NET, SQL, databases, authentication, and software architecture**.
 
