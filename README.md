@@ -1,4 +1,4 @@
-
+<img width="1584" height="396" alt="Evolu" src="https://github.com/user-attachments/assets/91c24fbb-e09e-447e-ab72-54d2d14f50c4" />
 # Evolution-programming
 
 **Evolution-programming** is a repository where I document my progress in software development through practical projects and continuous learning.
