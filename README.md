@@ -8,7 +8,7 @@
 - 📁 [**03 — E-Commerce System**](https://github.com/Gcodexs/03-ECommerce-System) — E-commerce architecture, business logic, and online store functionality.
 - 📁 [**04 — Cloud Serverless API**](https://github.com/Gcodexs/04-Cloud-Serverless-API) — Serverless functions, API development, and cloud deployment.
 - 📁 [**05 — Software Application Development**](https://github.com/Gcodexs/05-Software-Application-Development) — Software architecture, application development, and core system implementation.
-- 📁 [**06 — Full Stack web application**](https://github.com/Gcodexs/DotNet-Financial-Tracker1/tree/main/DotNet-Financial-Tracker1) Full-stack financial management web application built with React, C# and .NET 10, featuring income and expense tracking, SQLite database integration, and a responsive user interface.
+- 📁 [**06 — Full Stack web application**](https://github.com/Gcodexs/DotNet-Financial-Tracker1.git) Full-stack financial management web application built with React, C# and .NET 10, featuring income and expense tracking, SQLite database integration, and a responsive user interface.
 
 This repository brings together a modern technology ecosystem focused on backend development and software architecture:
 
