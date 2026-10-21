@@ -3,6 +3,9 @@
 
 **Evolution-programming** is a repository where I document my progress in software development through practical projects and continuous learning.
 
+My portfolio reflects my ongoing learning process through practical projects, with an emphasis on understanding software architecture, database integration, API communication, and the development of functional applications.
+I believe that consistent practice, curiosity, and continuous improvement are essential to becoming a better software developer.
+
 - 📁 [**01 — SQL Database**](https://github.com/Gcodexs/01-SQL-Database-main) — Database design, relational structures, and SQL query scripts.
 - 📁 [**02 — User Identity System**](https://github.com/Gcodexs/02-User-Identity-System) — User authentication, identity management, and access control.
 - 📁 [**03 — E-Commerce System**](https://github.com/Gcodexs/03-ECommerce-System) — E-commerce architecture, business logic, and online store functionality.
